@@ -1,0 +1,35 @@
+INFO  [main] 2015-09-30 03:14:54,293 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-09-30 03:14:54,822 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-09-30 03:14:54,824 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-09-30 03:14:55,054 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-09-30 03:14:55,055 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
+INFO  [main] 2015-09-30 03:16:32,352 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-09-30 03:16:32,732 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-09-30 03:16:32,734 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-09-30 03:16:32,936 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-09-30 03:16:32,937 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
+INFO  [main] 2015-09-30 03:17:11,451 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-09-30 03:17:11,788 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-09-30 03:17:11,792 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-09-30 03:17:12,011 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-09-30 03:17:12,014 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
+INFO  [main] 2015-10-26 13:49:05,133 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-10-26 13:49:05,567 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-10-26 13:49:05,569 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-10-26 13:49:05,777 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-10-26 13:49:05,778 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
+INFO  [main] 2015-10-26 13:51:25,285 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-10-26 13:51:25,617 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-10-26 13:51:25,620 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-10-26 13:51:25,789 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-10-26 13:51:25,789 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
+INFO  [main] 2015-10-26 14:06:09,308 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-10-26 14:06:09,643 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-10-26 14:06:09,646 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-10-26 14:06:09,793 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-10-26 14:06:09,794 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
+INFO  [main] 2015-10-26 14:09:10,084 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-10-26 14:09:10,454 Cluster.java:1900 - You listed localhost/fe80:0:0:0:0:0:0:1%1:9042 in your contact points, but it could not be reached at startup
+WARN  [main] 2015-10-26 14:09:10,456 Cluster.java:1900 - You listed localhost/0:0:0:0:0:0:0:1:9042 in your contact points, but it could not be reached at startup
+INFO  [main] 2015-10-26 14:09:10,628 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-10-26 14:09:10,628 Cluster.java:1311 - New Cassandra host localhost/127.0.0.1:9042 added
